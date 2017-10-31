@@ -9,8 +9,8 @@ Bringing together all kinds of awesomeness to make browsing better for you.
 - **Freedom is yours:** people, not profit.
 
 ## Notes
-- Looking for Firefox Developer Edition? Install the [firefox-dev](/packages/firefox-dev) package.
-- Looking for Firefox for Personal Use? Install the [Firefox](/packages/Firefox) package.
+- Looking for Firefox Developer Edition? Install the [firefox-dev](/automatic/firefox-dev) package.
+- Looking for Firefox for Personal Use? Install the [Firefox](/automatic/Firefox) package.
 - This package installs Firefox ESR in the first language which matches this list:
 1. Install arguments override parameter if present, e.g. `choco install Firefox -packageParameters "l=en-GB"`.
 To get a list of all available locales have a look at this file: https://releases.mozilla.org/pub/firefox/releases/latest-esr/README.txt.
